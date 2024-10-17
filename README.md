@@ -2,6 +2,7 @@
 ---
 
 <h1 align="center">👋 Hola!, My Name is M.SHIJIN</h1>
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -15,6 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
+---
 
 <h2>🚀 About Me</h2>
 <p>
@@ -26,19 +28,17 @@
   <li>🔍 <strong>Data Analysis</strong>: <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> | <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy"/>    |
      With experience in Python, Excel and Power BI, I analyze and visualize complex datasets to derive actionable insights and provide profitable recommendations.  
   </li>
-  <li>🤖 <strong><span style="color:#3776AB;">Machine Learning</span></strong>: I'm constantly learning and exploring machine learning algorithms, and I enjoy building models and optimizing them for various projects.</li>
-  <li>📊 <strong>Data Visualization</strong>: <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/> | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/> | I am constantly learning and improving my analytical skills creating interactive visualizations and dashboards using tools like Matplotlib and Seaborn.</li>
-</ul>     
+  <li>📊 <strong>Data Visualization</strong>: <img src="https://img.shields.io/badge/Excel-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Excel"/> | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/> | I am constantly learning and improving my analytical skills creating interactive visualizations and dashboards using tools like Matplotlib and Seaborn.</li>
+</ul>   
 
-### 💡 Recent Projects
-- **User Engagement Analysis**: Analyzed user engagement metrics (page views, average time spent, bounce rate) for webtoon content. Utilized A/B testing and user segmentation to propose optimization strategies. Created visualizations with Plotly and built a dashboard using Dash. [Check it out here](https://github.com/[YourUsername]/user-engagement-analysis).
-- **Data Visualization for Webtoons**: Worked on visualizing user engagement data to help content creators optimize their strategies for better user retention.
-
+---
 
 ### 🔧 Technologies & Tools
 - **Languages**: Python
 - **Libraries & Tools**: Pandas, NumPy, Matplotlib, Power BI, Excel
 - **Other Skills**: Machine Learning, Data Visualization, Analysis
+
+---
 
 ### 🌱 What I'm Learning
 Currently diving deeper into:
@@ -46,8 +46,12 @@ Currently diving deeper into:
 - Making Predictions using hypothesis testing.
 - Strategies for improving Sales and marketing metrics
 
-<h2>📫 How to Reach Me</h2>
+---
+
+<h2><strong>📫 How to Reach Me</strong></h2>
 <p>
   <a href="mailto:mshijin251@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/m-shijin-095044227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
+---
