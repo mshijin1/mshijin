@@ -2,12 +2,11 @@
 
 <h1 align="center">👋 Hola! I'm M. SHIJIN</h1>
 
-<img align-"center" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25jc3d0NGs2ZmI4YWR5eXVpZnhqbGpjMnJzczdjaGo0am1xbHptcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif">
-
 <p align="center">
   🚀 Passionate about <strong>Backend Development</strong>, <strong>Data Analytics</strong>, and <strong>Machine Learning</strong>  
 </p> 
 
+<img align-"center" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25jc3d0NGs2ZmI4YWR5eXVpZnhqbGpjMnJzczdjaGo0am1xbHptcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif">
 ---
 
 ## 🔧 Tech Stack & Tools  
