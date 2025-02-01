@@ -1,5 +1,5 @@
 ---
-
+![logo](https://github.com/mshijin1/mshijin/blob/main/Black%20Modern%20Minimalist%20Beauty%20Business%20LinkedIn%20Article%20Cover%20Image.png )
 <h1 align="center">👋 Hola! I'm M. SHIJIN</h1>
 <p align="center">
   🚀 Passionate about <strong>Backend Development</strong>, <strong>Data Analytics</strong>, and <strong>Machine Learning</strong>  
