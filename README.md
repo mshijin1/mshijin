@@ -1,13 +1,19 @@
-
 ---
 
-<h1 align="center">👋 Hola!, My Name is M.SHIJIN</h1>
----
+<h1 align="center">👋 Hola! I'm M. SHIJIN</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  🚀 Passionate about <strong>Backend Development</strong>, <strong>Data Analytics</strong>, and <strong>Machine Learning</strong>  
+</p>
+
+---
+
+## 🔧 Tech Stack & Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-4caf50?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-ff6347?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white"/>
@@ -16,42 +22,63 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
+
 ---
 
-<h2>🚀 About Me</h2>
-<p>
-  I am a technical enthusiast, Currently pursuing my degree in B-tech as a final year student.
+## 🚀 About Me  
+🔹 A **final-year B.Tech student** with a strong interest in **data-driven technologies and AI-powered solutions**.  
+🔹 Passionate about **backend development**, **data visualization**, and **machine learning** to solve real-world problems.  
+🔹 A self-learner who loves **building interactive dashboards, optimizing models, and automating tasks**.
+
+---
+
+## 💼 What I Do  
+
+🔍 **Data Analysis**  
+- Experienced in **Python, Pandas, NumPy, and SQL** to clean, process, and analyze datasets.  
+- Strong knowledge of **Power BI & Excel** to build **interactive dashboards and insightful reports**.  
+
+📊 **Data Visualization**  
+- Proficient in **Matplotlib, Seaborn, and Power BI** to create **impactful visual stories** from raw data.  
+- Love experimenting with **new visualization techniques to enhance storytelling**.  
+
+⚙️ **Backend Development**  
+- Skilled in **Django, FastAPI, and Node.js** for building **scalable and efficient web applications**.  
+- Interested in integrating **machine learning models** into backend systems.  
+
+🤖 **Machine Learning & AI**  
+- Passionate about **building predictive models and intelligent automation solutions**.  
+- Learning **deep learning, NLP, and AI-driven insights for business applications**.  
+
+---
+
+## 🌱 What I'm Learning  
+
+📌 **Advanced Machine Learning Techniques** – Improving model performance and optimizing AI solutions.  
+📌 **Hypothesis Testing & Statistical Analysis** – Making data-driven business decisions.  
+📌 **Sales & Marketing Analytics** – Developing strategies to enhance business performance.  
+📌 **IoT & Robotics** – Exploring AI applications in **smart systems and automation**.  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shijin-m&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shijin-m&theme=radical" width="400"/>
 </p>
 
-<h2>💼 What I Do</h2>
-<ul>
-  <li>🔍 <strong>Data Analysis</strong>: <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> | <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy"/>    |
-     With experience in Python, Excel and Power BI, I analyze and visualize complex datasets to derive actionable insights and provide profitable recommendations.  
-  </li>
-  <li>📊 <strong>Data Visualization</strong>: <img src="https://img.shields.io/badge/Excel-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Excel"/> | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/> | I am constantly learning and improving my analytical skills creating interactive visualizations and dashboards using tools like Matplotlib and Seaborn.</li>
-</ul>   
-
 ---
 
-### 🔧 Technologies & Tools
-- **Languages**: Python
-- **Libraries & Tools**: Pandas, NumPy, Matplotlib, Power BI, Excel
-- **Other Skills**: Machine Learning, Data Visualization, Analysis
+## 📫 Let's Connect  
 
----
-
-### 🌱 What I'm Learning
-Currently diving deeper into:
-- Advanced machine learning techniques
-- Making Predictions using hypothesis testing.
-- Strategies for improving Sales and marketing metrics
-
----
-
-<h2><strong>📫 How to Reach Me</strong></h2>
-<p>
-  <a href="mailto:mshijin251@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/m-shijin-095044227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<p align="center">
+  <a href="mailto:mshijin251@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/m-shijin-095044227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/shijin-m"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
+
+🔥 **"Data is the new fuel, and AI is the engine!"** 🚀  
+
